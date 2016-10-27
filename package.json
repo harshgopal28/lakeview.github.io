@@ -1,0 +1,23 @@
+{ 
+  "name": "lake_view",
+  "version": "1.0.0",
+  "description": "Lake View - Historical record counts loaded into the data lake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Priyanka",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "[git-url-of-your-project]"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-imagemin": "^1.0.1"
+  }
+}
